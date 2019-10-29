@@ -1,0 +1,13 @@
+//
+// DreamWallpaper.rc2 – recursos que o Microsoft Visual C++ não edita diretamente
+//
+
+#ifdef APSTUDIO_INVOKED
+#error este arquivo não pode ser editado pelo Microsoft Visual C++
+#endif //APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Adicione recursos manualmente editados aqui...
+
+/////////////////////////////////////////////////////////////////////////////
