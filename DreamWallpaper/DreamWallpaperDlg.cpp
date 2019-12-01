@@ -157,6 +157,7 @@ HCURSOR CDreamWallpaperDlg::OnQueryDragIcon()
 	return static_cast<HCURSOR>(m_hIcon);
 }
 
+/*
 extern UINT SystemParametersInfo(UINT uiAction, UINT uiParam, LPCWSTR Msg, UINT fWinIni) throw()
 {
 	CRegKey rKey;
@@ -181,6 +182,7 @@ CString CDreamWallpaperDlg::GetBackground()
 	SystemParametersInfo(SPI_GETDESKWALLPAPER, 300, string, 0);
 	return string;
 }
+*/
 
 BOOL CDreamWallpaperDlg::SetOptions()
 {
